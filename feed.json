@@ -1,0 +1,131 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Test Dept.",
+	"icon": "https://micro.blog/testdept/avatar.jpg",
+	"home_page_url": "https://www.testdept.co.uk/",
+	"feed_url": "https://www.testdept.co.uk/feed.json",
+	"items": [
+		
+			{
+				"id": "http://recluso.micro.blog/2023/06/26/ribeira-grande.html",
+				
+				"content_html": "<p>Ribeira Grande</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ribeira Grande\n\n<img src=\"uploads/2023/img-6167.jpeg\" width=\"600\" height=\"428\" alt=\"\">\n",
+				"date_published": "2023-06-26T17:30:40+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/26/ribeira-grande.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/25/todays-photo-is.html",
+				
+				"content_html": "<p>Today&rsquo;s photo is in Ponta Delgada 🇵🇹</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's photo is in Ponta Delgada 🇵🇹\r\n\n\n<img src=\"uploads/2023/img-5894.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-25T13:39:18+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/25/todays-photo-is.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/24/i-always-love.html",
+				
+				"content_html": "<p>📷🇪🇸I always love a nice market.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷🇪🇸I always love a nice market. \n\n<img src=\"uploads/2023/07869783c4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-24T19:05:44+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/24/i-always-love.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/24/143800.html",
+				
+				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 \n\n<img src=\"uploads/2023/img-0725.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-24T14:38:00+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/24/143800.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/23/aores.html",
+				
+				"content_html": "<p>🗺️ 📷 🇵🇹Açores</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🗺️ 📷 🇵🇹Açores\n\n\n<img src=\"uploads/2023/img-6339.jpeg\" width=\"600\" height=\"357\" alt=\"\">\n",
+				"date_published": "2023-06-23T21:46:40+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/23/aores.html",
+				"tags": ["itinerant"]
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/22/223306.html",
+				
+				"content_html": "<p>🗺️ 📷 🇦🇱</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🗺️ 📷 🇦🇱\r\n\n\n<img src=\"https://www.testdept.co.uk/uploads/2023/img-0323.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-22T22:33:06+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/22/223306.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/22/221139.html",
+				
+				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷\r\n\n\n<img src=\"https://www.testdept.co.uk/uploads/2023/img-2992.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-22T22:11:39+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/22/221139.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/22/214202.html",
+				
+				"content_html": "<p>🇬🇧  📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🇬🇧  📷\n\n\n<img src=\"uploads/2023/img-1308.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-22T21:42:02+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/22/214202.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/21/potos.html",
+				
+				"content_html": "<p>🗺️ 🇧🇴 <code>Potosí</code></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🗺️ 🇧🇴 `Potosí`\r\n\n\n<img src=\"https://www.testdept.co.uk/uploads/2023/1502261994523.jpeg\" width=\"600\" height=\"458\" alt=\"\">\n",
+				"date_published": "2023-06-21T22:31:36+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/21/potos.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/21/compaero-trabajador-proteje.html",
+				
+				"content_html": "<p>🇲🇽 🛒 🪧</p>\n<h3 id=\"programa-nacional-de-proteccion-al-salario\">PROGRAMA NACIONAL DE PROTECCION AL SALARIO</h3>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🇲🇽 🛒 🪧 \n\n### PROGRAMA NACIONAL DE PROTECCION AL SALARIO\n<div style=\"text-align:center\">\n<img src=\"uploads/2023/422bf17ce7.jpg\" width=\"407\" height=\"600\" alt=\"\"</div>\n\n",
+				"date_published": "2023-06-21T22:16:40+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/21/compaero-trabajador-proteje.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/21/long-time-ago.html",
+				
+				"content_html": "<p>✈️ 🇪🇸 long time ago</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "✈️ 🇪🇸 long time ago\n\n<img src=\"https://www.testdept.co.uk/uploads/2023/c1ceebbf-3aa1-4098-a525-fe96ac59455c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-21T21:45:39+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/21/long-time-ago.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/21/201801.html",
+				
+				"content_html": "<p>🇵🇹 📷 🚴🏽‍♀️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🇵🇹 📷 🚴🏽‍♀️\n\n<img src=\"https://www.testdept.co.uk/uploads/2023/4e9ab0c2-c423-4332-8555-4db96b735f57.jpeg\" width=\"600\" height=\"559\" alt=\"\">\n",
+				"date_published": "2023-06-21T20:18:01+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/21/201801.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/21/195946.html",
+				
+				"content_html": "<p>📷 🇵🇹</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 🇵🇹\r\n\r\n\n\n<img src=\"https://www.testdept.co.uk/uploads/2023/img-5469.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-21T19:59:46+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/21/195946.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/21/070012.html",
+				
+				"content_html": "<p>Moulton 📷🚴</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Moulton 📷🚴\n\n<img src=\"https://www.testdept.co.uk/uploads/2023/image.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-21T07:00:12+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/21/070012.html"
+			},
+			{
+				"id": "http://recluso.micro.blog/2023/06/20/230954.html",
+				
+				"content_html": "<p>🚴🏽‍♀️ Norka</p>\n<!-- raw HTML omitted -->\n<p>📷</p>\n",
+				"content_text": "🚴🏽‍♀️ Norka\n\n<img src=\"uploads/2023/3f5ecf76-eeb9-4e02-af2b-022c6d511dda.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\n 📷\n",
+				"date_published": "2023-06-20T23:09:54+01:00",
+				"url": "https://www.testdept.co.uk/2023/06/20/230954.html"
+			}
+	]
+}
