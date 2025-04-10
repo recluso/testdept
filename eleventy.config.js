@@ -27,6 +27,11 @@ export default function (eleventyConfig) {
     fs.writeFileSync(tailwindOutputPath, result.css);
   });
 
+  // Copy flyonUI JS
+  eleventyConfig.addPassthroughCopy({
+    "node_modules/flyonui/flyonui.js": "vendor/flyonui/flyonui.js"
+  });
+
   const processor = postcss([
     //compile tailwind
     tailwindcss(),

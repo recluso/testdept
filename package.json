@@ -1,21 +1,32 @@
 {
-  "name": "tailwind-4-with-eleventy-3",
+  "name": "testdept",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "build": "npx eleventy",
     "serve": "npx eleventy --serve"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recluso/testdept.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recluso/testdept/issues"
+  },
+  "homepage": "https://github.com/recluso/testdept#readme",
   "description": "",
   "type": "module",
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "@tailwindcss/postcss": "^4.0.14",
+    "@tailwindcss/postcss": "^4.1.3",
     "cssnano": "^7.0.6",
     "postcss": "^8.5.3",
-    "tailwindcss": "^4.0.14"
+    "tailwindcss": "^4.1.3"
+  },
+  "dependencies": {
+    "flyonui": "^2.1.0"
   }
 }
